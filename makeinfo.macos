@@ -1,1 +1,1 @@
-./configure --disable-rfkill --prefix=/usr/local/Cellar/util-linux/2.30
+./configure --disable-rfkill --disable-ipcrm  --disable-ipcs  --prefix=/usr/local/Cellar/util-linux/2.30
